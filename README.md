@@ -5,7 +5,12 @@
 - 📫 How to reach me on e-mail:  byunkul23@hotmail.com
 - 📫 How to reach me on linked-in: <a href='https://www.linkedin.com/in/ahmet-burak-y%C3%BCnk%C3%BCl-99295615b/'>Ahmet Burak YÜNKÜL</a>
 
-![](https://komarev.com/ghpvc/?username=burak2344)
+<p align='center'>
+  <a href="https://gist.github.com/burak2344"><img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/byunkul23"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmet-burak-y%C3%BCnk%C3%BCl-99295615b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:byunkul23@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak2344&layout=compact)](https://github.com/burak2344/github-readme-stats)
 
