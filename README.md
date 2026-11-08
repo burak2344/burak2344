@@ -1,7 +1,6 @@
 <div align="center">
 
-# Merhaba, ben Ahmet Burak Yünkül 👋
-
+# Ahmet Burak Yünkül
 ### Bilgisayar Mühendisi · AI-Destekli Yazılım Geliştirme · Yatırım Danışmanı
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=.NET+%26+Angular+ile+%C3%BCr%C3%BCn+geli%C5%9Ftiriyorum;Yapay+zekay%C4%B1+geli%C5%9Ftirme+s%C3%BCrecinin+merkezine+al%C4%B1yorum;Yaz%C4%B1l%C4%B1m+%2B+Finans+%3D+Fintech" alt="Typing SVG" />
@@ -14,19 +13,38 @@
 
 ---
 
-## 🚀 Hakkımda
+## Hakkımda
 
-- 💼 **Geist Trading**'de **Bilgisayar Mühendisi & Yatırım Danışmanı** olarak çalışıyorum. Finansın iş ihtiyaçlarını ve bunların teknik çözümünü birlikte ele alıyorum.
-- 🧱 **.NET** ekosisteminde 4 yılı aşkın deneyimim var. **Clean Architecture**, **N-katmanlı mimari** ve **SOLID** prensipleriyle ölçeklenebilir API'ler geliştiriyorum.
-- 🤖 Yapay zekayı geliştirme sürecinin merkezine alıyorum: LLM tabanlı kodlama asistanları, LLM API entegrasyonları ve ajan tabanlı otomasyonlar kullanıyorum.
-- 🌱 Şu an **LLM entegrasyonları**, **AI ajanları (MCP)** ve **fintech** çözümleri üzerine çalışıyorum.
-- 🎓 Süleyman Demirel Üniversitesi, Bilgisayar Mühendisliği mezunuyum.
-- 📍 Eskişehir, Türkiye
-- 💬 Bana her konuda soru sorabilirsiniz!
+- **Geist Trading**'de **Bilgisayar Mühendisi & Yatırım Danışmanı** olarak çalışıyorum. Finansın iş ihtiyaçlarını ve bunların teknik çözümünü birlikte ele alıyorum.
+- Google Play'de yayında olan **Geist Panel** mobil uygulamasını geliştirdim. Web ve iOS sürümleri yolda.
+- **.NET** ekosisteminde 4 yılı aşkın deneyimim var. **Clean Architecture**, **N-katmanlı mimari** ve **SOLID** prensipleriyle ölçeklenebilir API'ler geliştiriyorum.
+- Yapay zekayı geliştirme sürecinin merkezine alıyorum: LLM tabanlı kodlama asistanları, LLM API entegrasyonları ve ajan tabanlı otomasyonlar kullanıyorum.
+- Şu an **LLM entegrasyonları**, **AI ajanları (MCP)** ve **fintech** çözümleri üzerine çalışıyorum.
+- Süleyman Demirel Üniversitesi, Bilgisayar Mühendisliği mezunuyum.
+- Konum: Elazığ, Türkiye
+- İş birlikleri ve projeler için iletişime geçebilirsiniz.
 
 ---
 
-## 🛠️ Teknolojiler
+## Öne Çıkan Ürün: Geist Panel
+
+**Geist Panel**, Geist Trading için geliştirdiğim mobil uygulama. Android sürümü Google Play'de yayında. Web ve iOS sürümleri yakında yayınlanacak.
+
+<p>
+<a href="https://play.google.com/store/search?q=Geist+Panel&c=apps"><img src="https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play - Yayında" /></a>
+<img src="https://img.shields.io/badge/Web-Yak%C4%B1nda-64748B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web - Yakında" />
+<img src="https://img.shields.io/badge/iOS-Yak%C4%B1nda-64748B?style=for-the-badge&logo=apple&logoColor=white" alt="iOS - Yakında" />
+</p>
+
+| Platform | Durum |
+|---|---|
+| Android | Google Play'de yayında |
+| Web | Geliştirme aşamasında, yakında |
+| iOS | Geliştirme aşamasında, yakında |
+
+---
+
+## Teknolojiler
 
 **Backend**
 
@@ -72,7 +90,7 @@
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## Öne Çıkan Projeler
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
@@ -84,12 +102,9 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+## GitHub İstatistikleri
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=burak2344&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub istatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak2344&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En çok kullanılan diller" />
 
 <img src="https://streak-stats.demolab.com?user=burak2344&theme=tokyonight&hide_border=true&locale=tr" alt="Katkı serisi" />
 
